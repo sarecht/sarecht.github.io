@@ -12,9 +12,9 @@ use them, but repeating the commands over and over again helps me learn. For
 example, after creating multiple disposable Cloud 9 workspaces I finally learned
 that 
 
-
-cd
-
+{% highlight html %}
+<h1> cd </h1>
+{% endhighlight %}
 
 is the command to move around files in a directory and
 

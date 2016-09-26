@@ -9,8 +9,8 @@
 title: Sarah Albrecht
 email: sarecht@live.unc.edu
 description: INLS 16-fun Assignments
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sarecht.github.io" # the base hostname & protocol for your site
+baseurl:
+url: "sarecht.github.io/"" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  sarecht
 
