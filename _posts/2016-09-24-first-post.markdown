@@ -13,16 +13,24 @@ example, after creating multiple disposable Cloud 9 workspaces I finally learned
 that 
 
 {% highlight html %}
-<h1> cd </h1>
+ cd 
 {% endhighlight %}
 
 is the command to move around files in a directory and
 
-
+{% highlight html %}
 pwd 
+{% endhighlight html %}
 
+is how to find out where you are.  One of the harder commands to remember is the
+one that runs a Jekyll server for you to test the changes to your website on.
+This command is
 
-is how to find out where you are. I think this class is really interesting so
+{% highlight html %}
+jekyll serve --host $IP --port $PORT
+{% endhighlight %}
+
+I think this class is really interesting so
 far and I'm definitely interested in learning about HTML!
 
 ---
