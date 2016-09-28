@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: purple;
+  background-color: LightSkyBlue;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -83,7 +83,7 @@ a {
     a.postLink:visited {
       color: "crimson"; }
   a.post-title-link {
-    color: black; }
+    color: AliceBlue; }
     a.post-title-link:hover {
       border-bottom: 1px dotted black; }
     a.post-title-link:visited {
@@ -248,7 +248,7 @@ pre {
   font-weight: 500;
   margin-top: 1em; }
   .site-title, .site-title:visited {
-    color: #818181; }
+    color: AliceBlue; }
 
 .site-description {
   font-size: 14px;
@@ -459,8 +459,8 @@ pre {
     color: #998;
     font-style: italic; }
   .highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; }
+    color: AliceBlue;
+    background-color: AliceBlue; }
   .highlight .k {
     font-weight: bold; }
   .highlight .o {
