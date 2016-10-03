@@ -34,4 +34,3 @@ interests include:
 At school, I like to try to go to yoga twice a week. It's really relaxing and
 just challenging enough to still be enjoyable. I also find taking a nap to be
 relaxing and enjoyable so sometimes it's hard for me to decide between the two.
-
