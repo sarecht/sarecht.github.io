@@ -30,8 +30,15 @@ This command is
 jekyll serve --host $IP --port $PORT
 {% endhighlight %}
 
-I think this class is really interesting so
-far and I'm definitely interested in learning about HTML!
+All of what we do in this class nears to be learned through practicing, and I 
+like that a lot more than studying and having to memorize things without an 
+application. Everything we learn has been practical so far and I hope that I 
+have a chance to use what I gain from this class in the future!
+
+I'm looking forward to the final project for this class which will be a 
+multimedia presentation. It will stand in for a final exam, which I'm excited 
+about. It'll be more efficient to actually show what I've learned rather than to
+write about it.
 
 ---
 
