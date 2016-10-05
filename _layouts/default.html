@@ -15,6 +15,47 @@
 
     {% include footer.html %}
 
+<script src="https://raw.githubusercontent.com/simeydotme/jQuery-canvas-sparkles/master/dist/jquery-canvas-sparkles.js"></script>
+<script src="https://raw.githubusercontent.com/simeydotme/jQuery-canvas-sparkles/master/dist/jquery-canvas-sparkles.min.js"></script>
+
+<script>
+
+  $(document).ready(function() {
+    $(".site-title").sparkle({
+     "color": ["#ff0080","#ff0080","#FFF"] , 
+                count: 70 ,
+                speed: 0
+
+            });
+
+            $("img").sparkle({
+
+                color: ["#2eafea","#e56604"],
+                speed: 0.4
+
+            });
+
+            $("button").last().sparkle({ 
+                "color": "rainbow" , 
+                "minSize": 2 , 
+                "maxSize": 5 ,
+                "overlap": 20 ,
+                "direction": "down" ,
+                "speed": 1,
+                "fadeSpeed":3000
+            });
+
+            $("button").first().sparkle({ 
+                "minSize": 2 , 
+                "maxSize": 10 ,
+                "overlap": 20 ,
+                "direction": "up" ,
+                "speed": 0.4
+            });
+
+  });
+</script>
+
   </body>
 
 </html>
