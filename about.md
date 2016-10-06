@@ -12,6 +12,6 @@ crying over Amazon Prime commercials with dogs in them I'm sleeping, cooking, or
 playing Super Smash Bros with my bros. I have a very weak spot for animals, 
 especially birds, dogs, and cats. 
 
-Contact
+**Contact**
 
 <a href="Github">https://github.com/sarecht/</a>
