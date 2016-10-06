@@ -40,5 +40,10 @@ multimedia presentation. It will stand in for a final exam, which I'm excited
 about. It'll be more efficient to actually show what I've learned rather than to
 write about it.
 
+Some helpful resources:
+<a href=" ">https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-
+</a>
+<a href=" ">http://www.w3schools.com/html/html_basic.asp</a>
+
 ---
 
