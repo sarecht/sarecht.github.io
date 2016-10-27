@@ -6,6 +6,10 @@ categories: assignments
 author: "Sarah Albrecht"
 ---
 
+![alt text](http://s2.quickmeme.com/img/4c/4c7b211bcd281a8f2e6c26b144c951a50d69a0046f0ef117ee330ceb6279c712.jpg "scripting meme")
+
+
+
 For assignment 3, I chose to work with part of a paper I had to write for my
 ENGL 105 class last year. We had to do a report on a controversial drug of our
 choice and then write about whether or not we believed it should be used. I chose
@@ -34,6 +38,8 @@ The files in my folder now are:
     
 [prolixin.html](https://github.com/sarecht/assignment-3-sarecht/blob/master/prolixin.html)
 
+After I did this, I tweaked my script to say the current date and time and
+some friendly dialogue.
 
 One of the challenges I faced completing this assignment was with the image
 I chose to use. The first challenge was enabling Cloud9 to find my photo by
