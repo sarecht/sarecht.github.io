@@ -32,4 +32,4 @@ that problem. It helped me see how flexible the command line is.
 Overall I enjoyed this project. It was much more difficult than our other assignments, but that
 meant that the final result was more satisfying.
 
-[project 5 reposity](https://github.com/sarecht/octocat2)
+[project 5 repository](https://github.com/sarecht/octocat2)
