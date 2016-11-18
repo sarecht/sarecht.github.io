@@ -9,11 +9,11 @@ author: "Sarah Albrecht"
 For assignment 5 we worked in groups again to modify our script so that it
 stored answers from users in a MySql database. This was a pretty difficult
 task and involved a lot of Google-ing. I'm really glad we got to work in groups
-for this assignment because talking challenged through with my group members
+for this assignment because talking challenges through with my group members
 definitely made this task easier to figure out. 
 
-In particular, my group had issues with loading the data from a csv file into MySql
-because the data kept douplicating itself so that there were many repeats. I think
+Specifically, my group had issues with loading the data from a csv file into MySql
+because the data kept duplicating itself so that there were many repeats. I think
 this problem probably took well over an hour to solve in total, but after browsing
 StackOverflow and asking Elliot many questions we were able to get our script to
 work.
