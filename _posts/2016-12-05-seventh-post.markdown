@@ -21,9 +21,9 @@ and we were both afraid to download the Ogg Vorbis software, we recorded our
 script in GarageBand and hoped that Cloud9 would accept our files as MP3s instead
 of .ogg files.  That was our first challenge.
 Another challenge we faced that night was that our pictures weren't showing up
-in our presentation. We tried to remove the block text marker of "``` from our 
+in our presentation. We tried to remove the block text marker from our 
 markdown file but it wasn't enough. We ended up emailing Elliott about it because 
-we were frustrated and we found out that the combination of the "```" marker and our
+we were frustrated and we found out that the combination of the block text marker and our
 picture text being indented resulted in the pictures not showing up.
 On the last work day in class we spent a long, long time trying to understand how
 and where to put our audio files in our code. We kept putting them in out index.html
