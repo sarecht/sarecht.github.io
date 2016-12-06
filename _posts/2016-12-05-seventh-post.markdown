@@ -13,6 +13,7 @@ throughout the semester. I worked with Emma Caison and we chose to present on
 to attend a 3D printing information session at the Kenan Science Library to find out
 some basic information on the process. We both took notes and decided to do
 some more research on our own separately. 
+
 The starting instructions were fairly simple and we didn't have any issues following
 them. We typed out our "script" in our markdown file and once that was done we
 thought that the bulk of the work for the project was done. We were very wrong.
@@ -20,6 +21,7 @@ We met up to record our audio on Emma' MacBook. Because Audacity wasn't working
 and we were both afraid to download the Ogg Vorbis software, we recorded our
 script in GarageBand and hoped that Cloud9 would accept our files as MP3s instead
 of .ogg files.  That was our first challenge.
+
 Another challenge we faced that night was that our pictures weren't showing up
 in our presentation. We tried to remove the block text marker from our 
 markdown file but it wasn't enough. We ended up emailing Elliott about it because 
@@ -38,6 +40,7 @@ class trying to figure out what was wrong. We ended up asking the SILS help desk
 for assistance and luckily enough the assistant solved the problem for us by
 restarting Emma's computer. In the end we were able to record our new audio and 
 put it in our presentation, but we did a lot of work to get there!
+
 This project was certainly challenging, but I feel like everything else we had done
 in class prepared me for it. This class helped me to develop a better problem solving
 attitude because it helped me learn that when things didn't run properly it wasn't
@@ -45,6 +48,7 @@ the end of the world. I actually wanted to solve the problems that came up and I
 liked working with Emma so that we could talk through the problems together.
 I probably wouldn't have gotten through the project alone so I appreciated having
 a partner to consult.
+
 The motivation to problem solve that this class and project have taught me is an
 important skill that I will definitely use in future SILS classes and in whatever
 job I have. I really enjoyed this project and I'm proud of my (and Emma's) work!
